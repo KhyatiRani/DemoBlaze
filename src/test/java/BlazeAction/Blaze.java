@@ -4,7 +4,6 @@ import org.json.JSONObject;
 import org.testng.annotations.Test;
 
 import io.restassured.RestAssured;
-import io.restassured.http.Cookie;
 import io.restassured.response.Response;
 import io.restassured.response.ResponseBody;
 import io.restassured.specification.RequestSpecification;
